@@ -107,7 +107,7 @@ principal():
   // Despachar pedido
   proximo ← removerProximoPedido()
   escreva("🚀 Despachando pedido ID: ", proximo.id)
-
+```
 ## ▶️ Diagrama
 
 <img width="766" height="434" alt="Captura de tela 2025-07-10 215320" src="https://github.com/user-attachments/assets/24a65604-7dca-4547-ac2d-a051f5c7c5e4" />
