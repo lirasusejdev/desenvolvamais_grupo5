@@ -1,3 +1,6 @@
+
+<img width="1363" height="453" alt="Captura de tela 2025-07-10 214327" src="https://github.com/user-attachments/assets/66c6c418-a279-4df3-a5ed-126e288dc5fa" />
+
 # 🚚 Algoritmo de Prioridade de Pedidos
 
 ## ⚙️ Constantes de Peso
